@@ -1,0 +1,5 @@
+com.bitcasa.javalib
+com.bitcasa.javalib.dao
+com.bitcasa.javalib.exception
+com.bitcasa.javalib.http
+com.bitcasa.javalib.jsonparser
